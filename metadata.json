@@ -1,0 +1,9 @@
+{
+  "name": "ALANE",
+  "description": "A personalized secure storage and project hub for students, featuring global landmarks and a vibrant red aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
